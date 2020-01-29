@@ -38,7 +38,7 @@ class App extends React.Component {
           <img  src={employee.image} class="mr-3 directory-image" alt="..." /> 
           <div class="media-body">
             <h5 class="mt-0">{employee.name}</h5>
-            {employee.from}
+            
           
           </div>
         </div>
